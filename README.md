@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket7107" alt="aniket7107" /></a> </p>
 
+- Hi, I'm currently pursuing **BSc ITM**
+
 - 🌱 I’m currently learning **Advance java,JS**
 
 - I'm looking to collaborate on **Full Stack Projects**
@@ -28,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket7107&show_icons=true&locale=en" alt="aniket7107" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket7107&" alt="aniket7107" /></p>
+
